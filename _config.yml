@@ -85,10 +85,10 @@ author:
   bio              : "PhD Candidate"
   location         : "Alicante"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RO_cF0IAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "abrahamlartey06@gmail.com"
+  researchgate     :    "https://www.researchgate.net/profile/Abraham_Lartey3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/AfetsiLart"
   google_plus      :
   keybase          :
   instagram        :
