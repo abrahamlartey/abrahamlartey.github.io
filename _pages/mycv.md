@@ -3,4 +3,4 @@
   title: "CV"
 ---
 
-You can download a PDF copy of my [CV](http://papers.abrahamlartey.com/Abraham_Lartey_CV.pdf) here.
+You can download a PDF copy of my CV  [**here**](http://papers.abrahamlartey.com/Abraham_Lartey_CV.pdf).
