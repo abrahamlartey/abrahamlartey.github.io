@@ -4,10 +4,10 @@
 ---
 ## University of Alicante, Spain
 ### Spring 2020 and Spring 2021
- Macroeconomics III  (PhD course in English ),  Teaching Assistant  to  [Francesco Turino](http://fae.ua.es/FAEX/turinofrancesco/)
+ Macroeconomics III  (PhD course in English ),  Teaching Assistant  to  [**Francesco Turino**](http://fae.ua.es/FAEX/turinofrancesco/)
  
 ### Spring 2019
-   Macroeconomics III  (PhD course in English ),  Teaching Assistant  to  [ Omar Rachedi](https://sites.google.com/site/omirachedi/)
+   Macroeconomics III  (PhD course in English ),  Teaching Assistant  to  [**Omar Rachedi**](https://sites.google.com/site/omirachedi/)
 
 ### Fall 2018, 2019, 2020
 Mathematics I, Undergraduate Course in English
