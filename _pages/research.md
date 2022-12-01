@@ -9,9 +9,8 @@ title: "Research"
 
 ### Analysing the efficiency of renewable energy consumption among oil-producing African countries (joint with  Ishmael Ackah  and Oluwafisayo Alabi), OPEC Energy Review , 2016 [Article](https://onlinelibrary.wiley.com/doi/abs/10.1111/opec.12081){: .btn--research}
 
-
 ## Working Papers
-### Agri-food importing firms amid a health crisis (joint with [Dela-Dem Doe Fiankor](https:https://ddfiankor.com) and Christian Ritzel)[Working paper](http://papers.abrahamlartey.com/Fiankor_etal_COVID_agrifood.pdf){: .btn--research} 
+### Agri-food importing firms amid a health crisis (with [Dela-Dem Doe Fiankor](https://ddfiankor.com) and Christian Ritzel)[Working paper](http://papers.abrahamlartey.com/Fiankor_etal_COVID_agrifood.pdf){: .btn--research} 
 This paper exploits daily customs transaction data on the universe of Swiss agri-food importing firms to assess the response of firms to a global shock. Estimating a linear model that regresses product-level import margins on daily COVID19 shocks and a host of fixed effects, we find that the pandemic had a substantial trade-reducing effect on imports. The trade effects were driven mainly by a reduction in the number of importing firms (i.e. 63\% of the total effect), and much less by the number of products imported and the average import value per product per firm. We explore several sources of heterogeneity and show, among others, that larger and incumbent firms were affected more by the trade adjustments.  Our results also reveal that the relative contribution of each import margin to the decline in aggregate imports depends on the level of data aggregation (i.e., daily, weekly or monthly). Finally, we validate and confirm main our findings by testing two mechanisms: (i) third-country supply-side effects using insights from structural gravity models and (ii) changes to consumer demand using consumer mobility, and retailer and consumer scanner data.
 
 ### Intensive and extensive margins of manufacturing exports: impact of commodity windfalls [Working paper](http://papers.abrahamlartey.com/Abraham_Lartey_JMP.pdf){: .btn--research} 
