@@ -39,5 +39,5 @@ Improvement in agricultural productivity plays a key role in the process of econ
 ## Selected works in progress
 ### Natural resource contracts in Africa: An empirical analysis (joint with [Flavien Moreau ](https://www.flavienmoreau.com/) and [Antoine Arnoud](https://antoinearnoud.github.io/) )
 
-Agrifood firms  in a crisis (joint with [Dela-Dem Doe Fiankor](https://www.uni-goettingen.de/de/560859.html)
+
 
