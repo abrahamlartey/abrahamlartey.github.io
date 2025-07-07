@@ -4,6 +4,13 @@ title: "Research"
 ---
 ## Peer Reviewed Publications
 
+
+
+### The evolution and implications of national energy cost shares (with [Paolo Agnolucci](https://www.worldbank.org/en/about/people/p/paolo-agnolucci), [Vincenzo De Lipsis](https://sites.google.com/view/vincedel/home?authuser=0),[Defne Gencer](https://blogs.worldbank.org/en/team/d/defne-gencer), and [Michael Grubb](https://profmichaelgrubb.com))
+
+### Government responses to oilfield discoveries: Impact of resource wealth on non-resource tax revenues , Journal of Government and Economics, 2024 [Article](https://doi.org/10.1016/j.jge.2024.100119){: .btn--research}
+
+
 ### Agri-food importing firms amid a health crisis (with [Dela-Dem Doe Fiankor](https://ddfiankor.com) and Christian Ritzel), Food Policy, 2023 [Article](https://www.sciencedirect.com/science/article/pii/S0306919223001057){: .btn--research}
 
 ### Between altruism and self-aggrandisement: Transparency, accountability and politics in Ghana's oil and gas sector (with  Ishmael Ackah, Theophilius Acheampong, Eric Kyem and Gifty Ketemepi ), Energy Research&Social Science, 2020 [Article](https://www.sciencedirect.com/science/article/abs/pii/S2214629620301134){: .btn--research}
@@ -12,7 +19,19 @@ title: "Research"
 
 ### Analysing the efficiency of renewable energy consumption among oil-producing African countries (joint with  Ishmael Ackah  and Oluwafisayo Alabi), OPEC Energy Review , 2016 [Article](https://onlinelibrary.wiley.com/doi/abs/10.1111/opec.12081){: .btn--research}
 
+
+
 ## Working Papers
+
+### Trade Barriers or Catalysts? Non-Tariff Measures and Firm-Level Trade Margins (joint with [Dela-Dem Doe Fiankor](https://ddfiankor.com) and [Woubet Kassa] (https://woubetkassa.com) ) [Working paper](https://documents1.worldbank.org/curated/en/099436401082531471/pdf/IDU-3fa15840-e280-4ea7-9dd6-07cfd5a3abe0.pdf){: .btn--research} 
+
+
+### Energising Africa: Current Landscape and Path to Renewable Energy  [Working paper](https://www.soas.ac.uk/sites/default/files/2024-11/CSST_Working%20Paper_No_2%20Abraham.pdf){: .btn--research} 
+
+
+### Carbon Taxation and Consumer Prices: Is there a Greenflation in South Africa? [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4787724){: .btn--research} 
+
+
 
 ### Intensive and extensive margins of manufacturing exports: impact of commodity windfalls [Working paper](http://papers.abrahamlartey.com/Abraham_Lartey_JMP.pdf){: .btn--research} 
 
