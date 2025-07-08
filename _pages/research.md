@@ -6,9 +6,9 @@ title: "Research"
 
 
 
-### The evolution and implications of national energy cost shares (with [Paolo Agnolucci](https://www.worldbank.org/en/about/people/p/paolo-agnolucci), [Vincenzo De Lipsis](https://sites.google.com/view/vincedel/home?authuser=0), [Defne Gencer](https://blogs.worldbank.org/en/team/d/defne-gencer), and [Michael Grubb](https://profmichaelgrubb.com))
+### The evolution and implications of national energy cost shares (with [Paolo Agnolucci](https://www.worldbank.org/en/about/people/p/paolo-agnolucci), [Vincenzo De Lipsis](https://sites.google.com/view/vincedel/home?authuser=0), [Defne Gencer](https://blogs.worldbank.org/en/team/d/defne-gencer), and [Michael Grubb](https://profmichaelgrubb.com)), Energy Economics, 2025  [Article](https://doi.org/10.1016/j.eneco.2025.108616){: .btn--research}
 
-### Government responses to oilfield discoveries: Impact of resource wealth on non-resource tax revenues , Journal of Government and Economics, 2024 [Article](https://doi.org/10.1016/j.jge.2024.100119){: .btn--research}
+### Government responses to oilfield discoveries: Impact of resource wealth on non-resource tax revenues, Journal of Government and Economics, 2024 [Article](https://doi.org/10.1016/j.jge.2024.100119){: .btn--research}
 
 
 ### Agri-food importing firms amid a health crisis (with [Dela-Dem Doe Fiankor](https://ddfiankor.com) and Christian Ritzel), Food Policy, 2023 [Article](https://www.sciencedirect.com/science/article/pii/S0306919223001057){: .btn--research}
@@ -23,7 +23,7 @@ title: "Research"
 
 ## Working Papers
 
-### Trade Barriers or Catalysts? Non-Tariff Measures and Firm-Level Trade Margins (joint with [Dela-Dem Doe Fiankor](https://ddfiankor.com) and [Woubet Kassa] (https://woubetkassa.com) ) [Working paper](https://documents1.worldbank.org/curated/en/099436401082531471/pdf/IDU-3fa15840-e280-4ea7-9dd6-07cfd5a3abe0.pdf){: .btn--research} 
+### Trade Barriers or Catalysts? Non-Tariff Measures and Firm-Level Trade Margins (joint with [Dela-Dem Doe Fiankor](https://ddfiankor.com) and [Woubet Kassa](https://woubetkassa.com) ) [Working paper](https://documents1.worldbank.org/curated/en/099436401082531471/pdf/IDU-3fa15840-e280-4ea7-9dd6-07cfd5a3abe0.pdf){: .btn--research} 
 
 
 ### Energising Africa: Current Landscape and Path to Renewable Energy  [Working paper](https://www.soas.ac.uk/sites/default/files/2024-11/CSST_Working%20Paper_No_2%20Abraham.pdf){: .btn--research} 
