@@ -1,7 +1,9 @@
 ---
   permalink: /myimpact/
-  title: "Policy"
+  title: "Impact Lab"
 ---
+
+___. Where ideas meet action — advancing global development through policy.___
 
 
 *  ___(forthcoming)___  **Green Ammonia for Low-Carbon Fertilizer Production in Africa**
