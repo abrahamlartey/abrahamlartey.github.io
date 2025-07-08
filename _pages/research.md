@@ -6,7 +6,7 @@ title: "Research"
 
 
 
-### The evolution and implications of national energy cost shares (with [Paolo Agnolucci](https://www.worldbank.org/en/about/people/p/paolo-agnolucci), [Vincenzo De Lipsis](https://sites.google.com/view/vincedel/home?authuser=0), [Defne Gencer](https://blogs.worldbank.org/en/team/d/defne-gencer), and [Michael Grubb](https://profmichaelgrubb.com)), Energy Economics, 2025  [Article](https://doi.org/10.1016/j.eneco.2025.108616){: .btn--research}
+### The evolution and implications of national energy cost shares (with [Paolo Agnolucci](https://www.worldbank.org/en/about/people/p/paolo-agnolucci), [Vincenzo De Lipsis](https://sites.google.com/view/vincedel/home?authuser=0), [Defne Gencer](https://blogs.worldbank.org/en/team/d/defne-gencer), and [Michael Grubb](https://profmichaelgrubb.com)), Energy Economics, 2025 [Article](https://doi.org/10.1016/j.eneco.2025.108616){: .btn--research}
 
 ### Government responses to oilfield discoveries: Impact of resource wealth on non-resource tax revenues, Journal of Government and Economics, 2024 [Article](https://doi.org/10.1016/j.jge.2024.100119){: .btn--research}
 
