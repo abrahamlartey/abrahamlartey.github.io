@@ -3,16 +3,22 @@
   title: "Impact Lab"
 ---
 
-___. Where ideas meet action — advancing global development through policy.___
+__Where ideas meet action — advancing global development through policy__
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-*  ___(forthcoming)___  **Green Ammonia for Low-Carbon Fertilizer Production in Africa**
+*  __(forthcoming)__  **Green Ammonia for Low-Carbon Fertilizer Production in Africa**
 
-*  ___(forthcoming)___  **Clean Hydrogen Skills Assessment Methodology**
+*  __(forthcoming)__  **Clean Hydrogen Skills Assessment Methodology**
 
-*  ___(forthcoming)___ **Integrating Africa Forward: From Thread to Hubs **
+*  __(forthcoming)__ **Integrating Africa Forward: From Thread to Hubs**
 
-*  ___(forthcoming)___ **Energy cost share dynamics and energy subsidy removal in developing countries**
+*  __(forthcoming)__ **Energy cost share dynamics and energy subsidy removal in developing countries**
 
 
 * [**Evaluation of the UK Emissions Trading Scheme: Phase 1**](https://www.gov.uk/government/publications/evaluation-of-the-uk-emissions-trading-scheme-phase-1)
