@@ -3,11 +3,9 @@
   title: "Impact Lab"
 ---
 
-_Where ideas meet action — advancing global development through policy_
+*Turning expertise into action — advancing global development through policy*
 
 <br>
-
-
 
 
 *  _(forthcoming)_  **Green Ammonia for Low-Carbon Fertilizer Production in Africa**
