@@ -4,7 +4,9 @@ title: "Research"
 ---
 ## Peer Reviewed Publications
 
+### Intensive and extensive margins of manufacturing exports: impact of commodity windfalls [Working paper](http://papers.abrahamlartey.com/Abraham_Lartey_JMP.pdf){: .btn--research} 
 
+###  Unpacking the Dutch Disease: Resource Windfalls and Export Margins (with  [Woubet Kassa](https://woubetkassa.com) ), IMF Economic Review, 2025  [Article](https://link.springer.com/article/10.1057/s41308-025-00290-1){: .btn--research}
 
 ### The evolution and implications of national energy cost shares (with [Paolo Agnolucci](https://www.worldbank.org/en/about/people/p/paolo-agnolucci), [Vincenzo De Lipsis](https://sites.google.com/view/vincedel/home?authuser=0), [Defne Gencer](https://blogs.worldbank.org/en/team/d/defne-gencer), and [Michael Grubb](https://profmichaelgrubb.com)), Energy Economics, 2025 [Article](https://doi.org/10.1016/j.eneco.2025.108616){: .btn--research}
 
@@ -33,12 +35,9 @@ title: "Research"
 
 
 
-### Intensive and extensive margins of manufacturing exports: impact of commodity windfalls [Working paper](http://papers.abrahamlartey.com/Abraham_Lartey_JMP.pdf){: .btn--research} 
-
 ### International Climate Policy and Renewable Energy Consumption[Working paper](http://papers.abrahamlartey.com/Abraham_Lartey_KP_green_growth.pdf){: .btn--research} 
 
 
-### Do Natural Resources make countries poor at taxation? [Working paper](http://papers.abrahamlartey.com/Abraham_Lartey_oilgastax.pdf){: .btn--research} 
 
 
 ### Chinese Development Aid and Agricultural Productivity: Evidence from Tanzania  [Working paper](http://papers.abrahamlartey.com/Abraham_Lartey_ChinaAgric.pdf){: .btn--research} [AidData Working paper](https://www.aiddata.org/publications/chinese-development-aid-and-agricultural-productivity-evidence-from-tanzania){: .btn--research} 
