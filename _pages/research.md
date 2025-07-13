@@ -4,7 +4,6 @@ title: "Research"
 ---
 ## Peer Reviewed Publications
 
-### Intensive and extensive margins of manufacturing exports: impact of commodity windfalls [Working paper](http://papers.abrahamlartey.com/Abraham_Lartey_JMP.pdf){: .btn--research} 
 
 ###  Unpacking the Dutch Disease: Resource Windfalls and Export Margins (with  [Woubet Kassa](https://woubetkassa.com) ), IMF Economic Review, 2025  [Article](https://link.springer.com/article/10.1057/s41308-025-00290-1){: .btn--research}
 
