@@ -24,7 +24,7 @@ I translate economic research into actionable evidence for governments and inter
   Evaluation of the implementation and early outcomes of the United Kingdom’s principal carbon-pricing mechanism.
 
 - [**Green Home Finance Innovation Fund: Impact Evaluation**](https://assets.publishing.service.gov.uk/media/68404b3d8dd459f8c947b40e/green-home-finance-innovation-fund-impact-report.pdf)  
-  Assessment of innovative green-finance models designed to support investment in residential energy-efficiency improvements.
+  Assessment of innovative green-finance models designed to support the development and piloting of novel green home finance products for the UK home retrofit market.
 
 - [**Evaluation of Phase 1 of the Public Sector Decarbonisation Scheme**](https://assets.publishing.service.gov.uk/media/67d15d7ba6d78876a3fb09fa/psds-phase-1-impact-evaluation.pdf)  
   Evaluation of a major public investment programme supporting energy efficiency and decarbonisation across public-sector buildings.
