@@ -1,6 +1,6 @@
 ---
 permalink: /impact/
-title: "Policy Impact"
+title: "Impact Lab"
 ---
 
 I translate economic research into actionable evidence for governments and international organisations, focusing on energy, climate policy, industrial development, and the transition to a low-carbon economy.
