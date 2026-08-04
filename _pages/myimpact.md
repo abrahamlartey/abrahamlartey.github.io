@@ -3,7 +3,7 @@ permalink: /impact/
 title: "Impact Lab"
 ---
 
-I translate economic research into actionable evidence for governments and international organisations, focusing on energy, climate policy, industrial development, and the transition to a low-carbon economy.
+I translate economic research into actionable evidence for governments and international organisations, focusing on energy, climate policy, industrial development, trade, and the transition to a low-carbon economy.
 
 ## Selected Policy Projects
 
