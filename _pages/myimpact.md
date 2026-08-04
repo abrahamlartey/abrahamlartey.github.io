@@ -31,3 +31,8 @@ I translate economic research into actionable evidence for governments and inter
 
 - [**Evaluation of the Green Homes Grant Voucher Scheme**](https://assets.publishing.service.gov.uk/media/65427a221f1a600010360c16/ghgv-phase-3-final-outcome-evaluation-report.pdf)  
   Assessment of the scheme’s effects on households, participating firms, residential energy efficiency, and value for money.
+
+
+### Gender and Agriculture Value Chains
+
+[** Gender Dynamics in Cashew and Shea Value Chains in Ghana and Burkina Faso**][Report](https://library.wur.nl/WebQuery/wurpubs/495499){: .btn--research}
