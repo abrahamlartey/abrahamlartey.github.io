@@ -1,17 +1,16 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/
+    url: /myresearch/
 
   - title: "Publications"
     url: /mypublications/
+    
+  - title: "CV"
+    url: /mycv/
 
   - title: "Teaching"
     url: /myteaching/    
     
-  - title: "CV"
-    url: /mycv/
-    
-
   - title: "Impact Lab" 
     url: /myimpact/
