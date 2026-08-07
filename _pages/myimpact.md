@@ -35,4 +35,4 @@ I translate economic research into actionable evidence for governments and inter
 
 ### Gender and Agriculture Value Chains
 
-[** Gender Dynamics in Cashew and Shea Value Chains in Ghana and Burkina Faso**](https://library.wur.nl/WebQuery/wurpubs/495499)
+- [**Gender Dynamics in Cashew and Shea Value Chains in Ghana and Burkina Faso**](https://library.wur.nl/WebQuery/wurpubs/495499) This study is part of a public-private partnership project ‘Oilseeds specialties: opportunities for the Dutch business community in the vegetable oil industry’ (TKI -AF 12097) from 2013 to 2015. 
