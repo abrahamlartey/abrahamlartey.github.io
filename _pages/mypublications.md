@@ -1,6 +1,6 @@
 ---
 permalink: /mypublications/
-title: "Publications"
+title: "Peer-reviewed Publications"
 excerpt: "Peer-reviewed publications"
 author_profile: true
 ---
