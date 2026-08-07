@@ -4,11 +4,11 @@ title: "Publications"
 excerpt: "Peer-reviewed publications"
 author_profile: true
 ---
+### 8.  Balancing climate ambition and price stability: The case of South Africa’s carbon tax
 
-### 8. Balancing climate ambition and price stability: The case of South Africa’s carbon tax
- 
- *Energy Policy*, 2026. 
- [Article](https://doi.org/10.1016/j.enpol.2026.115483){: .btn--research}
+ *Energy Policy*, 2026.  
+[Article](https://doi.org/10.1016/j.enpol.2026.115483){: .btn--research}
+
 
 ### 7. Unpacking the Dutch Disease: Resource Windfalls and Export Margins
 
