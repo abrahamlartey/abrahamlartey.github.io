@@ -2,17 +2,12 @@
 main:
   - title: "RESEARCH"
     url: /myresearch/
-
   - title: "PUBLICATIONS"
     url: /mypublications/
-
-
   - title: "TEACHING"
     url: /myteaching/    
-    
   - title: "POLICY" 
     url: /myimpact/
-
   - title: "CV"
     url: /mycv/
   
