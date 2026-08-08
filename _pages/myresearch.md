@@ -23,11 +23,8 @@ With [Dela-Dem Doe Fiankor](https://ddfiankor.com) and [Woubet Kassa](https://wo
 
 ### Scaling Green Hydrogen: Modelling Technology Learning, Capital and Cost Competitiveness in South Africa and Morocco
 
-With [Simon Robers](https://www.soas.ac.uk/about/simon-roberts) and [Antonio Andreoni](https://www.soas.ac.uk/about/antonio-andreoni). 
-[Working Paper](https://www.soas.ac.uk/sites/default/files/2025-11/Green_hydrogen_cost_analysis_WP.pdff){: .btn--research}
-
-
-
+With [Simon Robers](https://www.soas.ac.uk/about/simon-roberts) and [Antonio Andreoni](https://www.soas.ac.uk/about/antonio-andreoni).  
+[Working Paper](https://www.soas.ac.uk/sites/default/files/2025-11/Green_hydrogen_cost_analysis_WP.pdf){: .btn--research}
 
 ### Energising Africa: Current Landscape and Path to Renewable Energy
 
