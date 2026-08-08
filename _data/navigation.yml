@@ -5,12 +5,12 @@ main:
 
   - title: "Publications"
     url: /mypublications/
-    
+
   - title: "CV"
     url: /mycv/
 
   - title: "Teaching"
     url: /myteaching/    
     
-  - title: "Impact Lab" 
+  - title: "Policy Impact" 
     url: /myimpact/
