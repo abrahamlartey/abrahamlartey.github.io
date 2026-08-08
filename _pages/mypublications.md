@@ -4,7 +4,7 @@ title: "Peer-reviewed Publications"
 excerpt: "Peer-reviewed publications"
 author_profile: true
 ---
-s
+
 ### 8.  Balancing climate ambition and price stability: The case of South Africa’s carbon tax
 
  *Energy Policy*, 2026.  
