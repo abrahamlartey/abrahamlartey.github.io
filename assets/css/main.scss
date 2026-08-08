@@ -45,6 +45,16 @@
    Publication spacing
    ============================== */
 
-.archive__item {
-    margin-bottom: 2.8rem;
+.page__content h3 {
+  margin-top: 2.4rem;
+  margin-bottom: 0.6rem;
+}
+
+.page__content h3:first-child {
+  margin-top: 0;
+}
+
+.page__content h3 + p {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
 }
