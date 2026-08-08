@@ -33,7 +33,7 @@ With [Dela-Dem Doe Fiankor](https://ddfiankor.com) and Christian Ritzel. *Food P
 ### 3. Between Altruism and Self-Aggrandisement: Transparency, Accountability and Politics in Ghana’s Oil and Gas Sector
 
 With [Ishmael Ackah](https://ishmaelackah.com), Theophilius Acheampong, Eric Kyem, and Gifty Ketemepi. *Energy Research & Social Science*, 2020.  
-[Article](https://doi.org/10.1016/j.erss.2020.101502){: .btn--research}
+[Article](https://doi.org/10.1016/j.erss.2020.101536){: .btn--research}
 
 ### 2. Re-Visiting the Renewable Energy–Economic Growth Nexus: Empirical Evidence from African OPEC Countries
 
