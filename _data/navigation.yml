@@ -1,16 +1,19 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "RESEARCH"
     url: /myresearch/
 
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /mypublications/
+
+
+  - title: "TEACHING"
+    url: /myteaching/    
+    
+  - title: "POLICY" 
+    url: /myimpact/
 
   - title: "CV"
     url: /mycv/
-
-  - title: "Teaching"
-    url: /myteaching/    
+  
     
-  - title: "Policy Impact" 
-    url: /myimpact/
