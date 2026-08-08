@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abraham Lartey"
   avatar           : "Lartey_Abraham_Headshot.png"
-  bio              : "Economist & Climate Risk Analyst"
-  location         : "London, UK"
+  bio              : "Economist"
+  location         : #"London, UK"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=RO_cF0IAAAAJ&hl=en"
   email            : "abrahamlartey06@gmail.com"
-  researchgate     :    "https://www.researchgate.net/profile/Abraham_Lartey3"
+  researchgate     :   # "https://www.researchgate.net/profile/Abraham_Lartey3"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "abrahamlartey"
+  github           : #"abrahamlartey"
   google_plus      :
   keybase          :
   instagram        :
