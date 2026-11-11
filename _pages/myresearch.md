@@ -6,12 +6,11 @@ author_profile: true
 ---
 
  
+ I am an economist working at the intersection of international trade, natural-resource and energy economics, and green industrial policy. My research addresses a central question: how can developing economies translate trade integration, resource endowments and the low-carbon transition into sustainable structural transformation?
+ 
+I pursue this question through two complementary research agendas. The first examines how natural resources and the energy transition shape investment, domestic value addition and green industrialisation. This research considers resource windfalls and discoveries, critical minerals, renewable energy, carbon pricing and emerging green industries. The second investigates how trade policies, global value chains and industrial-policy interventions affect firm behaviour, productive capabilities and structural transformation in developing economies.
 
-I am an economist working at the intersection of international trade, environmental economics, and development economics. My research is motivated by a central question: how can developing economies achieve sustainable economic transformation in a rapidly changing global economy?
-
-I pursue this question through two complementary research agendas. The first examines how natural resources and the energy transition can be leveraged to promote green industrialisation and sustainable economic development. The second investigates how globalisation—including international trade, global value chains, and industrial policy—shapes firm behaviour, productivity, and structural transformation in developing economies.
-
-Methodologically, my research combines modern econometric and causal-inference methods with novel, large-scale administrative, firm-level, household, and spatial datasets. By integrating rigorous empirical analysis with policy-relevant questions, I seek to produce evidence that advances economic research and informs the design of trade, industrial, energy, and environmental policies that promote sustainable, inclusive, and resilient development.
+Methodologically, I combine modern econometric and causal-inference methods with novel administrative, firm-level, household, trade and spatial data. Through rigorous empirical analysis of policy-relevant questions, I aim to advance economic research and inform the design of trade, industrial, energy and environmental policies that support sustainable and inclusive  development, particularly in Africa
 
 ## Selected Working Papers
 
